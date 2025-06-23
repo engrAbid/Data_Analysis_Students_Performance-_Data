@@ -45,3 +45,16 @@ Creating Summary Tables
 To extract insights:  
 Average performance by different categories was analyzed.  
 Class-wise performance ratios were calculated.  
+Final Export and Documentation  
+The cleaned dataset was saved with a new filename.  
+A documentation sheet recorded all modifications.  
+
+# Conclusion  
+Through systematic cleaning and validation, the dataset is now error-free, consistent, and ready for advanced analysis. This process ensured complete data, uniform formatting, and accurate calculations for reliable insights.  
+
+Next Steps  
+Visualizations could be created to represent trends.  
+Statistical analysis could study performance relationships.  
+Automation could streamline future data cleaning.  
+
+This project highlights the importance of data hygiene in analytics. Would you like recommendations on specific Excel tools for deeper analysis?
