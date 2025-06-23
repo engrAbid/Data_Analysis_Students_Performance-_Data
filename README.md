@@ -1,4 +1,4 @@
-#Step 1: Data Cleaning and Preprocessing  
+# Step 1: Data Cleaning and Preprocessing  
 
 Handling Missing Values  
 One of the first challenges was dealing with missing or incomplete data. Empty cells and errors were scattered throughout the dataset, which could distort analysis results. To address this:  
