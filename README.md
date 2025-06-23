@@ -58,3 +58,4 @@ Statistical analysis could study performance relationships.
 Automation could streamline future data cleaning.  
 
 This project highlights the importance of data hygiene in analytics. Would you like recommendations on specific Excel tools for deeper analysis?
+# link README.md
