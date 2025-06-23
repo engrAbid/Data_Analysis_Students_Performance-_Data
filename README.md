@@ -17,3 +17,21 @@ To maintain consistency:
 Dates were formatted uniformly.  
 Numeric grades were adjusted to two decimal places.  
 Combined fields were split into separate columns.  
+
+
+# Step 2: Data Validation and Quality Checks  
+
+Removing Duplicate Entries  
+Duplicate records can lead to incorrect analysis.
+Applied Remove Duplicates function.  
+Used formulas to verify unique entries.  
+
+Detecting and Correcting Outliers  
+Some data points were unrealistic. To fix this:  
+Conditional Formatting highlighted extreme values.  
+Statistical functions helped identify anomalies.  
+
+Formula-Based Calculations  
+To enhance the datasets analytical value:  
+Aggregate scores were computed.  
+Performance categories were assigned using logical statements.  
