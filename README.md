@@ -35,3 +35,13 @@ Formula-Based Calculations
 To enhance the datasets analytical value:  
 Aggregate scores were computed.  
 Performance categories were assigned using logical statements.  
+# Step 3: Structuring and Exporting Cleaned Data  
+
+Sorting and Filtering for Better Readability  
+Data was sorted by key fields for easier navigation.  
+Filters enabled quick analysis of specific groups.  
+
+Creating Summary Tables  
+To extract insights:  
+Average performance by different categories was analyzed.  
+Class-wise performance ratios were calculated.  
